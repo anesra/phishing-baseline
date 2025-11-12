@@ -1,0 +1,7 @@
+URL,HTTPS_Token,URL_Length,having_At_Symbol,Prefix_Suffix,Shortening_Service,label
+http://secure-login-update.example-bank.com-verify.info,0,78,0,1,0,1
+https://example.com/account/profile,1,31,0,0,0,0
+https://bit.ly/3XyzBank-help,0,32,0,0,1,1
+http://login.example.org/signin,1,29,0,0,0,0
+http://update-pay.verify.example.com,0,45,0,1,0,1
+https://shop.example.com/product/123,1,40,0,0,0,0
