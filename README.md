@@ -2,6 +2,10 @@
 
 This repository contains an end-to-end lab for Phishing detection using a RandomForest baseline.
 
+## 📚 Additional Resources
+
+- **[사이버보안 커리어 컴패스](./사이버보안_커리어_컴패스.md)** - Comprehensive guide for cybersecurity career development (Korean)
+
 Files:
 - notebooks/phishing_baseline.ipynb — Colab-ready notebook (end-to-end)
 - data/sample/phishing_sample.csv — small sample CSV for quick tests
